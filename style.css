@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    font-family: 'Roboto Slab', serif;
+}
+ul{
+    list-style: none;
+    float: right;
+    margin-right: 80px;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(9, 9, 10);
+}
+ul li{
+display: inline-block;
+margin: 20px;
+}
+.first-part-intro{
+    margin-top: 12%;
+    margin-left: 10%;
+}
+.first-part-intro h1{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 70px;
+    font-weight: 800;
+}
+.first-part-intro h1 span{
+    color: orangered;
+}
+.half{
+    width: 40%;
+    float: left;
+}
+.half img{
+    width: 100%;
+    margin-top: 10%;
+
+}
+.first-part-intro .up{
+    margin-top: 15px;
+    font-weight: 400;
+}
+.first-part-intro .lp{
+    margin-bottom: 15px;
+    font-weight: 400;
+}
+.first-part-intro button{
+    border: 2px solid whitesmoke;
+    padding: 14px 35px;
+    background-color: rgb(240, 89, 35);
+    color: whitesmoke;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.second-part{
+    margin-left:5%;
+}
+.second-part-intro {
+    margin-top: 12%;
+    margin-left: 10%;
+}
+.second-part-intro h1{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 55px;
+    font-weight: 700;
+}
+.second-part-intro button{
+    
+        border: 2px solid whitesmoke;
+        padding: 14px 35px;
+        background-color: rgb(240, 89, 35);
+        color: whitesmoke;
+        border-radius: 10px;
+        margin-top: 15px;
+  
+}
+.aboutup{
+    margin: 20px 0px;
+    font-weight: 400;
+}
+.div-clear{
+    clear: both;
+}
+.third-part{
+    background-color: whitesmoke;
+    height: 800px;
+}
+
+.third-part h1{
+    text-align: center;
+    
+} 
+.third-part span{
+    color: orangered;
+}
+.projects{
+    margin: 60px 0px;
+}
+.one-third{
+    width: 30%;
+    float: left;
+    border: 15px solid white;
+    padding: 2%;
+    border-radius: 10px;
+    margin: 1% 1%;
+}
+.one-third img{
+    width: 90%;
+}
+.first{
+    margin-left: 3%;
+}
+.projects h1{
+    padding-top: 80px;
+    font-size: 35px;
+}
