@@ -131,7 +131,6 @@ margin: 20px;
 }
 .fourth-part h1{
     margin-left: 20%;
-    margin-top: ;
     display: inline-block;
     margin-top: 8%;
     font-size: 30px;
@@ -145,4 +144,99 @@ margin: 20px;
     border: 2px solid orange;
     border-radius: 8px;
     margin-left: 25%;
+}
+
+
+
+
+.width{
+    width: 1170px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+}
+
+
+
+
+.help {
+    background-color: aliceblue;
+    box-sizing: border-box;
+    padding: 20px 40px;
+}
+
+.help1{
+    display: inline-block;
+    width: 330px;
+    margin-right: 46px;
+    
+}
+.help1 .lheading h3{
+    border-bottom: 1px solid white;
+}
+
+.help1 .link{
+   
+padding-top: 9px;
+}
+.help1 .link ul{
+    list-style: none;
+}
+.help1 .link ul li a{
+    text-decoration: none;
+    line-height: 26px;
+}
+
+.help2{
+    display: inline-block;
+    width: 330px;
+    margin-right: 46px;
+}
+.help2 .lheading h3{
+    border-bottom: 1px solid white;
+}
+
+.help2 .link{
+   
+    padding-top: 9px;
+}
+.help2 .link ul{
+    list-style: none;
+}
+
+.help2 .link ul li a{
+    line-height: 26px;
+    text-decoration: none;
+}
+
+.help3{
+    display: inline-block;
+    width: 330px;
+}
+.help3 .lheading h3{
+    border-bottom: 1px solid white;
+}
+
+.help3 .link{
+    
+padding-top: 9px;
+}
+.help3 .link ul{
+    list-style: none;
+}
+.help3 .link ul li a{
+    text-decoration: none;
+    line-height: 26px;
+}
+footer .px{
+    text-align: center;
+}
+
+.footer{
+    width: 1170px;
+    margin: 0 auto;
+    background-color:rgb(245, 233, 233) ;
+    
+}
+.copyright{
+    padding: 15px;
 }
